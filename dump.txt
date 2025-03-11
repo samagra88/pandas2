@@ -1,1 +1,2 @@
 Just a dump file.
+Just updating this file in order to learning edit and updating git bash. 
